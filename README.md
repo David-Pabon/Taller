@@ -5,7 +5,7 @@ Servicio web RESTful desarrollado con Spring Boot que permite registrar y listar
 
 ---
 
-## 🚀 Instrucciones para ejecutar el proyecto
+##  Instrucciones para ejecutar el proyecto
 
 ### Requisitos
 - Java JDK 17 o superior
